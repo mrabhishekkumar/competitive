@@ -3,7 +3,8 @@ using namespace std;
 #define int long long int
 
 void rishu(){
-    sfekltgu54ytrkhfm c
+    
+    
 
 
 
